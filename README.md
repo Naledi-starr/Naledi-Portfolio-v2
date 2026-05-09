@@ -1,12 +1,15 @@
 # Naledi-Portfolio-v2
 
-Personal developer portfolio (single-page HTML).
+Personal developer portfolio (single-page HTML) with a futuristic dark theme, animated background, and smooth section navigation.
+
 ## Features
-- Futuristic dark theme with animated grid and matrix rain effect
+- Futuristic dark theme with animated grid overlay and Matrix-style rain effect
 - Custom cursor + scroll progress bar
-- Smooth anchor navigation between sections
+- Smooth scrolling for anchor links
 - Sections: Home, About, Projects, Experience, Skills, Education, Contact
 
-## File
-- `portfolio.html` — all markup, styling, and JavaScript in one file.
+## Project Structure
+- `portfolio.html` — main single-page application (markup + inline JS)
+- `style.css` — styling and animations
+- `script.js` — JavaScript (appears to duplicate/extract functionality from the inline script)
 
